@@ -1,42 +1,41 @@
 # 🏗️ Building Materials Inventory System
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/154241517?s=400&u=068c54bd21f25f24d5d7361978148a056a544288&v=4" width="120" style="border-radius:50%;">
-</p>
-
-<h3 align="center">Building Materials Inventory Management Application</h3>
-
-<p align="center">
-A desktop-based inventory management application developed in Java to help building material stores manage products, stock, suppliers, and sales transactions efficiently.
+  <h3>Desktop-Based Inventory Management Application</h3>
+  <p>
+    A Java desktop application designed to help building materials stores manage inventory,
+    monitor stock, and record transactions efficiently.
+  </p>
 </p>
 
 ---
 
-## 📌 Overview
+## 📖 About the Project
 
-This application was developed to simplify inventory management in a building materials store. It provides features for managing products, monitoring stock availability, recording transactions, and generating inventory data.
+Building Materials Inventory System is a desktop application developed using Java to simplify inventory management processes in a building materials store. The application enables users to manage products, suppliers, stock availability, and sales transactions through an intuitive graphical interface.
 
 ---
 
 ## ✨ Features
 
 - 📦 Product Management
-- 📊 Inventory & Stock Monitoring
-- 🏢 Supplier Management
-- 💰 Sales Transaction Management
+- 🏪 Supplier Management
+- 📊 Stock Monitoring
+- 🛒 Sales Transaction Management
 - 🔍 Product Search
 - 📄 Inventory Reports
-- 💾 Database Integration
+- 💾 MySQL Database Integration
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Built With
 
 - Java
 - Java Swing
-- MySQL
-- NetBeans IDE
+- MySQL Database
 - JDBC
+- Apache Ant
+- NetBeans IDE
 
 ---
 
@@ -45,44 +44,27 @@ This application was developed to simplify inventory management in a building ma
 ### Dashboard
 
 <p align="center">
-<img src="Screenshot%202025-02-11%20165909.png" width="800">
+  <img src="Screenshot%202025-02-11%20165909.png" width="800">
 </p>
 
 ### Inventory Management
 
 <p align="center">
-<img src="Screenshot%202025-02-11%20170002.png" width="800">
+  <img src="Screenshot%202025-02-11%20170002.png" width="800">
 </p>
 
 ---
 
-## 🚀 Getting Started
+## 👥 Development Team
 
-1. Clone this repository
-
-```bash
-git clone https://github.com/alfiantofaidatulaldiyumardiansyah/Building-materials-inventory.git
-```
-
-2. Open the project using NetBeans IDE.
-
-3. Import the provided MySQL database.
-
-4. Configure the database connection in the project.
-
-5. Run the application.
-
----
-
-## 👨‍💻 Author
-
-**Alfianto Faidatul Aldi Yumardiansyah**
-
-- GitHub: https://github.com/alfiantofaidatulaldiyumardiansyah
-- LinkedIn: https://www.linkedin.com/in/alfianto-faidatul-aldi-yumardiansyah/
+| Name | Role |
+|------|------|
+| **Alfianto Faidatul Aldi Yumardiansyah** | Backend Developer & Database Designer |
+| **Taufik Hidayat** | UI/UX Designer & Frontend Developer |
+| **Viki Mei Saputra** | System Analyst & Tester |
 
 ---
 
 ## 📄 License
 
-This project is intended for educational purposes and portfolio demonstration.
+This project was developed for educational purposes and portfolio demonstration.
